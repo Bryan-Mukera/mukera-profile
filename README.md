@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Hello World! Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- [UUSD mobile learning for Kenyan students](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- [Rock Paper Scissors](https://github.com/Bryan-Mukera/RockPaperSciccors/blob/main/README.md) 
+- [UUSD mobile learning for Kenyan students](https://github.com/Bryan-Mukera/RockPaperSciccors/blob/main/README.md) 
 
 <h2> 📄 Certifications</h2>
 
