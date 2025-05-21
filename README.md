@@ -1,5 +1,7 @@
 <h1>Hi, I'm Bryan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, 
-  <a href="https://www.linkedin.com/in/joshmadakor/">Backend engineer</a>, <a 
+  <a href="https://www.linkedin.com/in/joshmadakor/">Backend engineer</a>
+  
+ 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
